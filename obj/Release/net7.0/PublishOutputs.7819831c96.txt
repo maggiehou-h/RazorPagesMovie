@@ -1,0 +1,7 @@
+C:\Users\maggiehou\Documents\VSCODE\RazorPagesMovie\bin\Release\net7.0\publish\RazorPagesMovie.exe
+C:\Users\maggiehou\Documents\VSCODE\RazorPagesMovie\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\maggiehou\Documents\VSCODE\RazorPagesMovie\bin\Release\net7.0\publish\appsettings.json
+C:\Users\maggiehou\Documents\VSCODE\RazorPagesMovie\bin\Release\net7.0\publish\RazorPagesMovie.dll
+C:\Users\maggiehou\Documents\VSCODE\RazorPagesMovie\bin\Release\net7.0\publish\RazorPagesMovie.deps.json
+C:\Users\maggiehou\Documents\VSCODE\RazorPagesMovie\bin\Release\net7.0\publish\RazorPagesMovie.runtimeconfig.json
+C:\Users\maggiehou\Documents\VSCODE\RazorPagesMovie\bin\Release\net7.0\publish\RazorPagesMovie.pdb

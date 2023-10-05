@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net7.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/796f287d-422b-4b60-a8ae-c75361d58390/resourceGroups/maggiehou-applinux/providers/Microsoft.Web/sites/aspnetrazor"
+}
